@@ -1,6 +1,6 @@
 <table>
 <tr> 
-<td width="600">
+<td width="550">
 <h1>About me</h1>
 
 - Studying in MAI on 2nd course of Fundamental computer science and information technology
