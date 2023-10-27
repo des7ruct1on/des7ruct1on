@@ -3,7 +3,7 @@
 <td width="550">
 <h1>About me</h1>
 
-- Studying in MAI on 2nd course of Fundamental computer science and information technology
+- Studying in MAI at 2nd course of Fundamental computer science and information technology
 - i do not like bytes
 </td>
 <td>
