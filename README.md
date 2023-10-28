@@ -66,8 +66,11 @@
       </td>
   </tr>
 </table>
-
-<table>  
-  
+<div>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=des7ruct1on&layout=pie)](https://github.com/des7ruct1on/github-readme-stats)
-</table>
+</div>
+<div> 
+
+   [![des7ruct1on's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=des7ruct1on&theme=xcode)](https://github.com/des7ruct1on/github-readme-activity-graph)
+</div> 
