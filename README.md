@@ -39,6 +39,18 @@
       <td>
            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="70"/>&nbsp;
       </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" width="70"/>&nbsp;
+      </td>
   </tr>
   <tr>
       <td> OS </td>
