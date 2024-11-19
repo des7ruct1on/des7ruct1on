@@ -75,6 +75,9 @@
       <td>
            <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" width="70"/>&nbsp;
       </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" width="70"/>&nbsp;
+      </td>
     
   </tr>
   <tr>
