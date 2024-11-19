@@ -36,8 +36,20 @@
   </tr>
   <tr>
       <td> Tools </td>
-      <td>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="70"/>&nbsp;
+     <td> 
+           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" width="70"/>&nbsp;
+      </td>
+     <td> 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" width="70"/>&nbsp;
+      </td>
+     <td> 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="70"/>&nbsp;
+      </td>
+     <td> 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="70"/>&nbsp;
+      </td>
+     <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="PySpark" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="70"/>&nbsp;
@@ -51,8 +63,8 @@
       <td> 
            <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" width="70"/>&nbsp;
       </td>
-     <td> 
-           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" width="70"/>&nbsp;
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="70"/>&nbsp;
       </td>
   </tr>
   <tr>
