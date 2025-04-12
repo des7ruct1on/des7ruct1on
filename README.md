@@ -8,9 +8,7 @@
 </td>
 <td>
    <h2> My socials </h2>
-   
-   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/des7ruction)
-   [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/des7ruct1on)
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suhariksuharik)
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/des7ruct1on)
    [![codewars](https://www.codewars.com/users/des7ruct1on/badges/small)](https://www.codewars.com/users/des7ruct1on) 
 </td>
